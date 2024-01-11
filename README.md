@@ -1,28 +1,28 @@
 # -Aprenda-Bash-construindo-um-Boilerplate.
 By freeCodeCamp
 
-echo                   -  Print / escrever   "" >> lugar
+echo                   - Print / escrever   "" >> lugar.
 
-pwd                    - Mostra o caminho do diretório atual
+pwd                    - Mostra o caminho do diretório atual.
 
-ls                     - lita os arquivos
+ls                     - Lista os arquivos.
 
-cd pasta               - move para o devido caminho( ../ volta )
+cd pasta               - Move para o devido caminho( ../ volta ).
 
-mkdir <nome>           - criar um diretório
+mkdir <nome>           - Criar um diretório.
 
-touch arquivo.txt      - cria um arquivo
+touch arquivo.txt      - Criar um arquivo.
 
-more <arquivo>         - ver o conteúdo do arquivo
+more <arquivo>         - Ver o conteúdo do arquivo.
 
-find                   - exibe a arquivo do diretório atual e seus filhos
+find                   - Exibe a arquivo do diretório atual e seus filhos.
 
-mv <arquivo><path>     - move ou altera o nome
+mv <arquivo><path>     - Move ou altera o nome.
 
-cp <arquivo><path>     - copia
+cp <arquivo><path>     - Copia.
 
-rm ou rmdir            - apaga
+rm ou rmdir            - Apaga.
 
-exit                   - sai do terminal
+exit                   - Sai do terminal.
 
-comando --help - exite a ajuda referente ao comando
+comando --help         - Exite a ajuda referente ao comando.
